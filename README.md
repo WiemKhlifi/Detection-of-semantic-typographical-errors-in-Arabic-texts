@@ -5,6 +5,8 @@ What is a semantic typographical error?
   - Semantic: morphologically and syntactically valid word but causing semantic causing a semantic disruption
  
  - Example: 
+
+
    The boy is eating a rake (cake)
    
    
