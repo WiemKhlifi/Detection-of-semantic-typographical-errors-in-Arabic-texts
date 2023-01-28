@@ -11,3 +11,5 @@ What is a semantic typographical error?
    
    
    اصطاد الصیاد **سكة** (سمكة)
+
+<img src="https://github.com/WiemKhlifi/Detection-of-semantic-typographical-errors-in-Arabic-texts/blob/main/Subject.png" alt="The subject" title="The mini project subject">
