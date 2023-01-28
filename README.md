@@ -6,4 +6,6 @@ What is a semantic typographical error?
  
  - Example: 
    The boy is eating a rake (cake)
+   
+   
    اصطاد الصیاد **سكة** (سمكة)
